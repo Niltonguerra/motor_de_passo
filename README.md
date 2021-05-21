@@ -18,4 +18,4 @@ Objetivo:
 * ferramentas:
 * IDE: MPLAB-X
 * simulador: Simulide
-Compilador:XC8
+* Compilador:XC8
